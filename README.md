@@ -39,8 +39,6 @@ Assim criando nosso arquivo .class, e para executar esse arquivo: java MyFristPr
 
 Mostramos ao computador onde está nosso arquivo compilado para ele executar o arquivo .class: export CLASSPATH=$CLASSPATH:~/Documentos/Projetos/learning_java/...
 
-![Por enquanto, nada muda.](assets/basico-02.png)
-
 Por enquanto, nada muda.
 
 ### Entendendo os erros
@@ -87,13 +85,9 @@ Convenção de Nomenclatura: Serve para deixar o código mais organizado e fáci
 
 Tipos inteiros: São valores não quebrados, sem , ou . sem casas decimais.
 
-![Se usa mais: int e long | Os outros valores você precisa saber mais pra tirar a certificação.](assets/basico-03.png)
-
 Se usa mais: int e long | Os outros valores você precisa saber mais pra tirar a certificação.
 
 Tipos Ponto Flutuante: São valores com casas decimais.
-
-![Se usa mais: double | O float você precisa saber mais pra tirar a certificação.](assets/basico-04.png)
 
 Se usa mais: double | O float você precisa saber mais pra tirar a certificação.
 
