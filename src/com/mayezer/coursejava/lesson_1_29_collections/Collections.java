@@ -37,6 +37,15 @@ public class Collections {
 
         listTwo.get(0); // Pegamos o primeiro indice da nossa lista
 
+        ArrayList<String> languages = new ArrayList<String>() {{ // Simplificação de ArrayList.
+            add("Java");
+            add("Python");
+            add("C#");
+            add("Go");
+        }};
+
+        System.out.println(languages);
+
 
         Set<String> setString = new HashSet<>(); // Não permite duplicados, usamos HashSet para incrementar a classe de set.
         // HashSet é o método mais comum, é uma implementação baseada em Hash Table.
