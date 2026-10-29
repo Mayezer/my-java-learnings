@@ -392,5 +392,3 @@ Mas existe um problema: Se o programa ficar guardando tudo para sempre, uma hora
   - É onde os objetos Java são armazenados. É compartilhada entre Threads e precisa de gerenciamento para não ficar cheia de objetos desnecessários.
 - GARBAGE COLLECTOR — Coletor de lixo:
   - Identifica objetos que não podem mais ser alcançados pelo programa e recupera o espaço na Heap para que seja reutilizado.
-
-![Tabela de prioridades de estudo](assets/avancado-01.png)
