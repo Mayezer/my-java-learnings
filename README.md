@@ -103,21 +103,13 @@ Tipo Boolean: São valores de true ou false. Usamos muitos para definir flags.
 
 Literais: Decimal, Hexadecimais, Octais, Binários…
 
-![Como usar literais](assets/basico-05.png)
-
 Como usar literais
 
-![Podemos usar _ para separar valores.](assets/basico-06.png)
-
 Podemos usar _ para separar valores.
-
-![O que não podemos.](assets/basico-07.png)
 
 O que não podemos.
 
 Java não é 100% orientada a objeto por conta dos tipos primitivos.
-
-![Escape + char](assets/basico-08.png)
 
 Escape + char
 
@@ -169,8 +161,6 @@ Operadores lógicos:
 - || | ou curto circuito.
 - && | and curto circuito.
 - ! | not (não).
-
-![Tabela verdade.](assets/basico-09.png)
 
 Tabela verdade.
 
@@ -237,8 +227,6 @@ Matriz irregular é muito importante.
 
 ### Introdução a Programação Orientada a Objeto em Java
 
-![Ilustração das anotações](assets/basico-10.png)
-
 Classes são modelos para definir a estrutura dos nosso objetos, nesse caso:
 
 - Atributos – Variáveis:
@@ -274,8 +262,6 @@ Polimorfismo é um conceito que permite que uma única interface, como método o
 Package: Usamos para organizar nossas classes de uma forma hierarquica, é muito importante para manutenção do código, porque quando dividimos nosso código em packages (pastas/diretórios) diferentes, conseguimos dividir responsabilidades, cada package terá sua funcionalidade ou responsabilidade do projeto, assim evitamos conflito no nome das classes.
 
 Estruturação de pastas package:
-
-![Ilustração das anotações](assets/intermediario-01.png)
 
 ### Java collections
 
